@@ -1,0 +1,117 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  background-color: #F2F4F6;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 30px;
+}
+.logo{
+  color: #A6A8AA;
+  font-size: 20px;
+  font-family: roboto;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 0px 15px 5px #00000050;
+}
+.input-container{
+  width: 60vw;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.input-box{
+  height: 40px;
+  width: 70%;
+  border: 1px solid gray;
+  background-color: white;
+  border-radius: 10px;
+  outline-style: none;
+  padding: 0px 10px;
+}
+.btn{
+  color: white;
+  background-color: #444648;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  padding: 10px 30px;
+}
+.btn-container{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.btn1{
+  color: white;
+  background-color: #ff2c2c;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  width: 100px;
+}
+.btn2{
+  color: white;
+  background-color: #03ac13;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  width: 100px;
+}
+.page-number{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* This is from displaying Movie list */
+
+.item-container{
+  margin: 40px 20px;
+  box-shadow: 10px 10px 10px 10px #00000050;
+  border-radius: 20px;
+}
+.item-card{
+  border-radius: 10px;
+  background-color: white;
+  display: flex;
+  padding: 20px;
+  gap: 30px;
+}
+.item-image{
+  width: 200px;
+}
+.matter{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.item-heading{
+  color: #4F5352;
+  font-size: 40px;
+  font-family: roboto;
+}
+.item-release-date{
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.item-rating{
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.item-des{
+  color: #737675;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: 500;
+  line-height: 30px;
+}
