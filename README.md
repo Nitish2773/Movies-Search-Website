@@ -3,6 +3,10 @@
 https://teal-manatee-29e712.netlify.app
 
 
+
+https://github.com/user-attachments/assets/ab63e85c-2e13-40cb-b4c9-34009bb20166
+
+
 **Overview:**
 The Movies Search Website is a single-page application built using React.js and Node.js, designed to offer a seamless and interactive movie search experience. Users can search for movies, view detailed information, and filter results based on various criteria.
 
