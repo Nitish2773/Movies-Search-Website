@@ -3,9 +3,11 @@
 
 # Movies Search Website
 
-[Live Demo](https://nitishmoviessearch.netlify.app/)
 
-![Movies Search Website Website demo](https://github.com/user-attachments/assets/ab63e85c-2e13-40cb-b4c9-34009bb20166)
+(https://nitishmoviessearch.netlify.app/)
+
+
+https://github.com/user-attachments/assets/ab63e85c-2e13-40cb-b4c9-34009bb20166
 
 ## Project Overview
 
